@@ -1,4 +1,4 @@
-import { Component, OnInit, HostListener } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-exercice-1',
@@ -14,10 +14,12 @@ export class Exercice1Component implements OnInit {
   //   console.log($event);
   // }
 
+
   constructor() {
   }
 
   ngOnInit() {
   }
+
 
 }
